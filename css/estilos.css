@@ -3,7 +3,7 @@ header{
     margin: 0 auto;
     padding: 50px;
     background-color: #1fbbc0;
-    border: 1px solid blue;
+    border: 1px solid rgb(41, 149, 153);
     border-radius: 10px;
     font-weight: bold;
     text-align: center;
@@ -19,6 +19,7 @@ div {
 button {
     padding: 20px;
     font-weight: bold;
+    
 }
 
 button:haver {
